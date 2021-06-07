@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<head
+
+<body>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+<style>
+body {font-family: 'Open Sans', sans-serif;}
+nav ul {
+	background-color:lavender;
+    display: flex;
+	padding: 0;
+    list-style-type: none;
+}
+nav ul a {
+	padding: 10px;
+}
+</style>
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="letter-to-my-future-self.html">Letter to My Future Self</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+
+<h1>Dear My Future Self</h1>
+<img src= "https://i.imgur.com/kkY9FpH.jpg" width= "200"
+<h4>
+<p>Dear Future Me,</p>
+</h4>
+<p> I don't know where to even start with this letter but here we go. I've been doing ok I guess it could be better. I mean covid still is a thing and everything still isn't back to normal but it could be worse. I'm grateful that my friends and family are ok. Also I'm taking AP exams soon this month which I'm super stressed about. But after that graduation and college... Even more stress right there but also a lot of excitement. I still don't know how to play the guiatar even though I've had one for 5 years. Not much going on with me these days to be honest. Now onto you. </p>
+
+<h4> My questions for you</h4>
+<ul>
+<li> How were the AP exams really? Did we pass?</li>
+<li> Is life back to normal yet? 
+<li> How was graduation? Or how did it feel to graduate? 
+<li> Is college fun? Are you running on monsters and 1 hour of sleep? 
+<li> Did you finally learn to play the guitar?
+<li> Did you ever finish<em><strong> Naruto Shippuden</strong></em>? 
+</ul>
+
+<p> Anyways this was fun hopefully life gets a little moer exciting and less stressul through the years. Also I hope we enjoy college to the fullest.<p>
+
+
+<footer> 
+<h3> Love,</h3>
+<p>Senior who has no idea what she is doing.</p>
+<h3> Contact Information:</h3>
+Luz.calix@bsswa.org 
+ 
+<footer>
+
+</html>
+
+<img src= "https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?cs=srgb&dl=pexels-jessica-lewis-1010519.jpg&fm=jpg" width= "200">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MxicuAGoxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
